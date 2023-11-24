@@ -1,0 +1,4 @@
+Bundle-Name: rockets-mvc-portlet
+Bundle-SymbolicName: rockets.mvc.portlet
+Bundle-Version: 1.0.0
+Export-Package: rockets.mvc.portlet.constants
