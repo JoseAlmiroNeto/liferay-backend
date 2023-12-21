@@ -1,0 +1,4 @@
+Bundle-Name: rockets-portlet-event
+Bundle-SymbolicName: rockets.portlet.event
+Bundle-Version: 1.0.0
+Export-Package: rockets.portlet.event.constants

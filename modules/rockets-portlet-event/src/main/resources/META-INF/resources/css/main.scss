@@ -1,0 +1,26 @@
+.card-event {
+	width: 270px;
+    height: 450px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.card-event:hover {
+  transform: scale(1.1);
+}
+
+.card-event-img-top {
+ 	object-fit: cover;
+ 	height: 300px;
+}
+.card-event-body {
+    flex: 1;
+}
+
+.card-event-body-description {
+ 	letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+}
